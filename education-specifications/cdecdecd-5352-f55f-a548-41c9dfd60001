@@ -3,13 +3,12 @@
   "organization": "c388522c-ebc1-2889-1899-06a89e4f5091",
   "educationSpecificationType": "program",
   "educationSpecificationId": "cdecdecd-5352-f55f-a548-41c9dfd60001",
-  "validFrom": "2016-12-15",
+  "validFrom": "2030-12-17",
   "abbreviation": "OT",
-  "validTo": "2025-04-25",
+  "validTo": "2030-12-18",
   "timelineOverrides": [
     {
-      "validFrom": "2016-12-15",
-      "validTo": "2025-04-25",
+      "validFrom": "2000-12-16",
       "educationSpecification": {
         "primaryCode": {
           "codeType": "identifier",
@@ -26,6 +25,10 @@
           {
             "language": "en-GB",
             "value": "Bachelor Chemical technology"
+          },
+          {
+            "language": "nl-NL",
+            "value": "NL VERTALING: Vrijgezel Chemicalische technologie"
           }
         ],
         "abbreviation": "B Scheikundige Technologie",
