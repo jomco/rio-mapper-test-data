@@ -3,12 +3,12 @@
   "organization": "c388522c-ebc1-2889-1899-06a89e4f5091",
   "educationSpecificationType": "program",
   "educationSpecificationId": "cdecdecd-5352-f55f-a548-41c9dfd60001",
-  "validFrom": "2030-12-17",
+  "validFrom": "2000-12-16",
   "abbreviation": "OT",
   "validTo": "2030-12-18",
   "timelineOverrides": [
     {
-      "validFrom": "2000-12-16",
+      "validFrom": "2030-12-17",
       "educationSpecification": {
         "primaryCode": {
           "codeType": "identifier",
