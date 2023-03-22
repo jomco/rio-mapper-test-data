@@ -2,7 +2,7 @@
   "level": "bachelor",
   "children": ["afb435cc-5352-f55f-a548-41c9dfd60001"],
   "organization": "c388522c-ebc1-2889-1899-06a89e4f5091",
-  "educationSpecificationType": "program",
+  "educationSpecificationType": "course",
   "educationSpecificationId": "fddec347-8ca1-c991-8d39-9a85d09c0003",
   "validFrom": "1950-09-20",
   "abbreviation": "1T",
