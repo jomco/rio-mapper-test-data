@@ -1,9 +1,9 @@
 {
   "level": "bachelor",
-  "parent": "fddec347-8ca1-c991-8d39-9a85d09c0003",
+  "parent": "fddec347-8ca1-c991-8d39-9a85d09c0004",
   "organization": "c388522c-ebc1-2889-1899-06a89e4f5091",
   "educationSpecificationType": "program",
-  "educationSpecificationId": "afb435cc-5352-f55f-a548-41c9dfd60001",
+  "educationSpecificationId": "afb435cc-5352-f55f-a548-41c9dfd60002",
   "validFrom": "2016-12-15",
   "abbreviation": "OT",
   "validTo": "2025-04-25",
@@ -33,9 +33,9 @@
   ],
   "primaryCode": {
     "codeType": "identifier",
-    "code": "afb435cc-5352-f55f-a548-41c9dfd60001"
+    "code": "afb435cc-5352-f55f-a548-41c9dfd60002"
   },
-  "link": "https://universiteit-van-boxtel.nl/education-specifications/afb435cc-5352-f55f-a548-41c9dfd60001",
+  "link": "https://universiteit-van-boxtel.nl/education-specifications/afb435cc-5352-f55f-a548-41c9dfd60002",
   "fieldsOfStudy": "0612",
   "description": [
     {
